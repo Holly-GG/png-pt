@@ -1,0 +1,12 @@
+{
+  "input_folder": "input",
+  "output_folder": "output_png",
+  "output_size": null,
+  "shadow_strength": 0.18,
+  "shadow_blur": 12,
+  "shadow_offset": [0, 2],
+  "edge_refinement": 0.5,
+  "brightness": 1.0,
+  "contrast": 1.02,
+  "sharpness": 1.08
+}
